@@ -1,6 +1,6 @@
 # GraphCMS Headless Blog : A simple blog using React, Tailwind, and GraphQL
 
-# Live Site Available Here: react-graphql-blog.vercel.app
+### Live Site Available Here: react-graphql-blog.vercel.app
 
 ## The app is built using:
 1. HTML, CSS, JS, React
